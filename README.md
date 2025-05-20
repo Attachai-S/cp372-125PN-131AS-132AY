@@ -1,4 +1,10 @@
 #Airbnb Seattle Pricce Prediction
+===
+
+#เกี่ยวกับ Dataset
+
+ใน Repository นี้จะสำรวจข้อมูล **Seattle Airbnb Open Data** จาก Kaggle, รวมไปถึงการทำความสะอาดข้อมู,, การสร้างฟีเจอร์ใหม่, และสร้างการพยากรณ์ (Regression) ราคาของห้องพัก โดยสามารถเรียนรู้เพิ่มเติมเกี่ยวกับ Dataset ได้[ที่นี่](https://www.kaggle.com/datasets/airbnb/seattle/data)
+
 
 #Project Canvas
 - **ปัญหา (Problem Statement)** : เจ้าของอสังหาริมทรัพย์แห่งหนึ่งใน Seattle มีความตั้งใจจะปล่อยเช่าห้องของตนเองสู่บริการ AirBnb แต่ทว่าเจ้าของอสังหาริมทรัพย์ท่านนี้ยังไม่เข้าใจว่าอะไรคือตัวกำหนดราคาห้องพัก
