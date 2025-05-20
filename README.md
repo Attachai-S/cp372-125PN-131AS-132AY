@@ -51,13 +51,19 @@
 โดยเราได้พบ 5 รูปแบบสำคัญหรือความผิดปกติ ดังนี้ 
 1. จำนวนประเภทห้องพักแยกตามประเภทที่พัก
 
+![room_type_by_property Plot](img/room_type_by_property.png)
 2. จำนวนประเภทห้องพักแยกตามย่าน
 
+![room_type_by_neighborhood Plot](img/room_type_by_neighborhood.png)
 3. จำนวนรีวิวและคะแนนรีวิวแยกตามชื่อผู้ให้เช่า/ชื่อประกาศ
 
+![number_review_score_by_name Plot](img/number_review_score_by_name.png)
 4. ราคาเฉลี่ยของแต่ละประเภทห้องพัก แยกตามย่าน
 
+![avg.price _by neighborhood Plot](img/avg.price_by_neighborhood.png)
+
 5. ความพร้อมให้เช่า
+
 ![Availability Plot](img/Availability.png)
 
 ## **การวิเคราะห์เชิงลึก (In-Depth Analysis)**
