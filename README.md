@@ -58,7 +58,7 @@
 4. ราคาเฉลี่ยของแต่ละประเภทห้องพัก แยกตามย่าน
 
 5. ความพร้อมให้เช่า
-![Availability Plot](imเ/Availability.png)
+![Availability Plot](img/Availability.png)
 
 ## **การวิเคราะห์เชิงลึก (In-Depth Analysis)**
 ในขั้นตอนนี้เราได้คิดคำถามการวิเคราะห์เชิงลึกดังนี้ :
