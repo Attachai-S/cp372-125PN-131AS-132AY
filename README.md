@@ -1,6 +1,14 @@
 # CP372 Final Project : Seattle Airbnb Open Data 
 
 
+## **ผลสรุปโครงการ**
+- Dataset  : https://www.kaggle.com/datasets/airbnb/seattle/data
+  
+- Tableau : https://public.tableau.com/views/Airbnbinteractivedashboard_17477226194240/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+- Youtube  : https://www.youtube.com/watch?v=nb4ImvqQlYg
+
+
 ## เกี่ยวกับ Dataset
 ใน Repository นี้จะสำรวจข้อมูล **Seattle Airbnb Open Data** จาก Kaggle รวมไปถึงการทำความสะอาดข้อมูล, การสร้างฟีเจอร์ใหม่, และสร้างการพยากรณ์ (Regression) ราคาของห้องพัก ทั้งนี้สามารถเรียนรู้เพิ่มเติมเกี่ยวกับ Dataset ได้[ที่นี่](https://www.kaggle.com/datasets/airbnb/seattle/data)
 ข้อมูลชุดนี้ประกอบไปด้วย 3 ไฟล์คือ
